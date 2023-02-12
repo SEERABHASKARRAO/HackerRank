@@ -9,7 +9,7 @@ import sys
 #
 # The function is expected to return a STRING.
 # The function accepts INTEGER year as parameter.
-#
+
 
 def dayOfProgrammer(year):
    if(year>1918): 
