@@ -36,5 +36,4 @@ if __name__ == '__main__':
     result = dayOfProgrammer(year)
 
     fptr.write(result + '\n')
-
     fptr.close()
