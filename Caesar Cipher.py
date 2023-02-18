@@ -14,5 +14,4 @@ for i in range(length):
         while asciiCode > ord("z"):
             asciiCode = asciiCode - ord("z") + ord("a") - 1
         string[i] = chr(asciiCode)
-
 print("".join(string))
