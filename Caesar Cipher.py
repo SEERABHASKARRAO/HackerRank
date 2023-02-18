@@ -1,7 +1,6 @@
 N = int(input())
 string = list(input())
 addNum = int(input())
-
 length = len(string)
 for i in range(length):
     if ord(string[i]) <= ord("Z") and ord(string[i]) >= ord("A"):
