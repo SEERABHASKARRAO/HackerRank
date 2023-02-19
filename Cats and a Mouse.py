@@ -1,7 +1,6 @@
 import os
 import sys
 
-
 def catAndMouse(x, y, z):
     if(abs(x-z)==abs(y-z)):
         return ("Mouse C")
