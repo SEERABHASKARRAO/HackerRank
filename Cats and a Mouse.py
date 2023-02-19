@@ -10,7 +10,6 @@ def catAndMouse(x, y, z):
     else:
         return ("Cat A")
 
-
 if __name__ == '__main__':
     f = open(os.environ['OUTPUT_PATH'], 'w')
 
