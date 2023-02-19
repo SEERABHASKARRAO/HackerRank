@@ -27,5 +27,4 @@ if __name__ == '__main__':
         result = catAndMouse(x, y, z)
 
         f.write(result + '\n')
-
     f.close()
