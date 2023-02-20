@@ -3,7 +3,6 @@ import os
 import random
 import re
 import sys
-
 def miniMaxSum(arr):
    n=len(arr)
    arr.sort()
