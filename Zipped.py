@@ -1,4 +1,3 @@
-# Enter your code here. Read input from STDIN. Print output to STDOUT\
 n,x=map(int,input().split())
 a=[]
 for i in range(x):
