@@ -1,4 +1,3 @@
-
 x=int(input())
 l=list(map(int,input().split()))
 n=int(input())
