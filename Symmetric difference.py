@@ -1,4 +1,3 @@
-
 m=int(input())
 l=set(map(int,input().split()))
 n=int(input())
