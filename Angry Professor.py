@@ -1,5 +1,4 @@
-#!/bin/python3
-
+#!/bin/python
 import math
 import os
 import random
@@ -13,7 +12,6 @@ import sys
 # The function accepts following parameters:
 #  1. INTEGER k
 #  2. INTEGER_ARRAY a
-#
 
 def angryProfessor(k, a):
     c=0
