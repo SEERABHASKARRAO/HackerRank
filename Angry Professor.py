@@ -1,4 +1,4 @@
-#!/bin/python
+#!/bin
 import math
 import os
 import random
