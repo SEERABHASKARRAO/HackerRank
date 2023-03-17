@@ -4,6 +4,7 @@ import random
 import re
 import sys
 
+
 def staircase(n):
     for i in range(n):
         for j in range(n):
