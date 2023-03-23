@@ -13,7 +13,6 @@ import sys
 #  1. INTEGER_ARRAY a
 #  2. INTEGER_ARRAY b
 #
-
 def compareTriplets(a, b):
     c=[]
     alice=0
