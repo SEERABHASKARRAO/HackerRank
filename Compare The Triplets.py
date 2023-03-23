@@ -5,7 +5,6 @@ import random
 import re
 import sys
 
-
 # Complete the 'compareTriplets' function below.
 
 # The function is expected to return an INTEGER_ARRAY.
