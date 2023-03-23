@@ -26,7 +26,7 @@ def compareTriplets(a, b):
     c.append(alice)
     c.append(bob)
     return c
-            
+           
 
 if __name__ == '__main__':
     fptr = open(os.environ['OUTPUT_PATH'], 'w')
