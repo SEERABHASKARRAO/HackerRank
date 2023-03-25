@@ -6,7 +6,7 @@ import sys
 
 def bonAppetit(bill, k, b):
    sum1=0
-   for i in range(len(bill)):
+   for i in range(len(bill)): 
     if(i!=k):
         sum1+=bill[i]
    p=sum1//2
