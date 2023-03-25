@@ -3,6 +3,7 @@ import os
 import random
 import re
 import sys
+
 def bonAppetit(bill, k, b):
    sum1=0
    for i in range(len(bill)):
