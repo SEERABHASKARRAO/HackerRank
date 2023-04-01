@@ -29,7 +29,7 @@ def breakingRecords(scores):
     res.append(len(list(set(best)))-1)
     res.append(len(list(set(worst)))-1)
     return res
-        
+       
 
 if __name__ == '__main__':
     fptr = open(os.environ['OUTPUT_PATH'], 'w')
