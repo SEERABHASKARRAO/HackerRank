@@ -5,6 +5,7 @@ import os
 import random
 import re
 import sys
+
 # Complete the 'designerPdfViewer' function below.
 # The function is expected to return an INTEGER.
 # The function accepts following parameters:
