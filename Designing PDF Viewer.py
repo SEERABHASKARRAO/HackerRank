@@ -14,7 +14,6 @@ import sys
 #  1. INTEGER_ARRAY h
 #  2. STRING word
 #
-
 def designerPdfViewer(h, word):
     s=list(word)
     maxi=-999
